@@ -34,10 +34,8 @@ And java.util.StackList และการใช้คำสั่งยูท�
 
 <br>
 <br>
-<h2 style="text-indent: 2em; text-decoration: underline;">การทำงานของอัลกอริทึม</h2>
-📄<a href="src/CodeExplanation/GHarray.pdf" target="_blank">ดูรายงานผลความเข้าใจผ่านการพิมพ์ (Array)</a>
-<br>📄<a href="src/CodeExplanation/GHarraylist.pdf" target="_blank">ดูรายงานผลความเข้าใจผ่านการพิมพ์ (Array List)</a>
-<br><br>    **พิมพ์มือเองทั้งหมด
+<h2 style="text-indent: 2em; text-decoration: underline;">ผลการรันโปรแกรม</h2>
+📄<a href="src/Output/GHstack.pdf" target="_blank">ดูผลการรันโปรแกรม</a>
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">ข้อสอบ</h2>
@@ -58,10 +56,8 @@ And java.util.StackList และการใช้คำสั่งยูท�
 
 <br>
 <br>
-<h2 style="text-indent: 2em; text-decoration: underline;">Code Explanation</h2>
-📄<a href="src/CodeExplanation/GHarray.pdf" target="_blank">open report code explanation (Array)</a>
-<br>📄<a href="src/CodeExplanation/GHarraylist.pdf" target="_blank">open report code explanation (Array List)</a>
-<br><br>    **manually created
+<h2 style="text-indent: 2em; text-decoration: underline;">Program Result</h2>
+📄<a href="src/Output/GHstack.pdf" target="_blank">click to see output</a>
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">Exam</h2>
