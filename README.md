@@ -4,10 +4,10 @@ And java.util.StackList และการใช้คำสั่งยูท�
 </p>
 
 <br><br>หน้าโปรแกรม Front Page<br>
-![นี่คือรูปหน้าจอ Login](https://github.com/SmileCat42/Array-DataStructure-2103/blob/master/src/sc/03.png)
+![นี่คือรูปหน้าจอ Login](https://github.com/SmileCat42/Stack-DataStructure-2103/blob/master/src/image/01.png)
 
 <br><br>ภายในโปรแกรม Program Page 
-![นี่คือรูปหน้าจอ Login](https://github.com/SmileCat42/Array-DataStructure-2103/blob/master/src/sc/MenuPage.png)
+![นี่คือรูปหน้าจอ Login](https://github.com/SmileCat42/Stack-DataStructure-2103/blob/master/src/image/31.png)
 
 <br><br>
 
