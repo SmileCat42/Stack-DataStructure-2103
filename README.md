@@ -35,6 +35,7 @@ And java.util.StackList และการใช้คำสั่งยูท�
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">ผลการรันโปรแกรม</h2>
+📄<a href="src/image/32.png" target="_blank">โจทย์โปรเจค</a><br>
 📄<a href="src/Output/GHstack.pdf" target="_blank">ดูผลการรันโปรแกรม</a>
 <br>
 <br>
@@ -57,6 +58,7 @@ And java.util.StackList และการใช้คำสั่งยูท�
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">Program Result</h2>
+📄<a href="src/image/32.png" target="_blank">Assignment</a><br>
 📄<a href="src/Output/GHstack.pdf" target="_blank">click to see output</a>
 <br>
 <br>
