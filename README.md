@@ -68,6 +68,7 @@ And java.util.StackList และการใช้คำสั่งยูท�
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">Program Result</h2>
 📄<a href="src/image/32.png" target="_blank">Assignment</a><br>
+
 📄 [Download program output](https://github.com/SmileCat42/Stack-DataStructure-2103/raw/master/src/Output/GHstack.pdf)
 <br>
 <br>
