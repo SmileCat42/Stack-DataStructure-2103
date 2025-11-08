@@ -37,7 +37,7 @@ And java.util.StackList และการใช้คำสั่งยูท�
 <h2 style="text-indent: 2em; text-decoration: underline;">ผลการรันโปรแกรม</h2>
 📄 <a href="src/image/32.png" target="_blank">โจทย์โปรเจค</a><br>
 
-📄 [ดูผลการรันโปรแกรม](https://github.com/SmileCat42/Stack-DataStructure-2103/raw/master/src/Output/GHstack.pdf)
+📄 [ดูผลการรันโปรแกรม](https://www.canva.com/design/DAG0mOL2xdY/xROcPdXCQuYjclIn6pZwkg/edit?utm_content=DAG0mOL2xdY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br>
 <br>
