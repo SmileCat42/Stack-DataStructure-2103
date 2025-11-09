@@ -27,7 +27,7 @@ And java.util.StackList และการใช้คำสั่งยูท�
 <br>
 
 <h2 style="text-indent: 2em; text-decoration: underline;">เนื้อหาที่ได้รับ</h2>
-1. เข้าใจโครงสร้างของกองซ้อนว่ามีรูปแบบการทำงานเป็นอย่างไร ไว้ใช้สำหรับทำอะไรและมีเงื่อนไขอย่างไร
+1. เข้าใจโครงสร้างของกองซ้อนว่ามีรูปแบบการทำงานเป็นอย่างไร ลำดับเข้า-ออกของข้อมูลที่ใส่บนโครงสร้างกองซ้อนเป็นอย่างไร ไว้ใช้สำหรับทำอะไร
 <br>2. ทราบถึงข้อจำกัดในการเข้าถึงตำแหน่งภายในกองซ้อน ซึ่งแตกต่างจากอาเรย์ที่สามารถระบุตำแหน่งได้เลย
 <br>3. ได้มีการใช้อัลกอริทึมหลากหลายรูปแบบ มีการ import java.util.StackList เข้ามาใช้งาน เพื่อทำให้เข้าใจความแตกต่างระหว่างสแต็กปกติและยูทิลสแต็ก
 <br>4. ทำให้นักศึกษาสามารถตัดสินใจเลือกใช้อัลกอริทึมที่เหมาะสมที่สุด มาประยุกต์ใช้งานกับคำสั่งบนแถวคอยแต่ละแบบได้
@@ -59,10 +59,10 @@ And java.util.StackList และการใช้คำสั่งยูท�
 <br>
 
 <h2 style="text-indent: 2em; text-decoration: underline;">Content Received</h2>
-1. Understand how an array structure works, advantages and limitations
-<br>2. Learn how to access elements in array, including its constraints and the redundancy that may occur when using arrays in algorithms
-<br>3. Gain experience using various algorithms, and learn to import java.util.ArrayList to understand the differences between array and ArrayList
-<br>4. Enable students to analyze and choose the most appropriate algorithm to apply effectively with different types of array operations
+1. Understand how stack structure works in terms of the order of data being pushed in and popped out, advantages and limitations
+<br>2. Understood that can’t access elements directly in stack like array
+<br>3. Tried different algorithms and used java.util.Queue to see the difference between a regular queue and a java.util.stack
+<br>4. Learned how to choose the most suitable algorithm for different stack operations
 
 <br>
 <br>
