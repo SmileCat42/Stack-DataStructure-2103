@@ -41,8 +41,10 @@ And java.util.StackList และการใช้คำสั่งยูท�
 
 <br>
 <br>
-<h2 style="text-indent: 2em; text-decoration: underline;">ข้อสอบ</h2>
-<br><br>
+<h2 style="text-indent: 2em; text-decoration: underline;">ผลการเรียนรู้</h2>
+📄 <a href="src/image/exam2103.pdf" target="_blank">ข้อสอบ</a>
+<br>
+<br>
 
 <h2 style="text-indent: 2em; text-decoration: underline;">ขั้นตอนการเปิดโปรแกรม</h2>
 1. ติดตั้งโปรแกรม Apache Netbeans
@@ -72,8 +74,10 @@ And java.util.StackList และการใช้คำสั่งยูท�
 📄 [Report program output](https://www.canva.com/design/DAG0mOL2xdY/xROcPdXCQuYjclIn6pZwkg/edit?utm_content=DAG0mOL2xdY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <br>
 <br>
-<h2 style="text-indent: 2em; text-decoration: underline;">Exam</h2>
-<br><br>
+<h2 style="text-indent: 2em; text-decoration: underline;">Learning Outcomes</h2>
+📄 <a href="src/image/exam2103.pdf" target="_blank">Exam</a>
+<br>
+<br>
 <h2 style="text-indent: 2em; text-decoration: underline;">How to open the program</h2>
 1. Install Apache NetBeans IDE
 <br>2. Download this project to your computer (click green CODE button)
